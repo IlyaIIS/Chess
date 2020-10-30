@@ -7,6 +7,10 @@ namespace Chess
         static void Main(string[] args)
         {
             char[,] board = new char[8,8];
+
+
+
+
         }
     }
 }
